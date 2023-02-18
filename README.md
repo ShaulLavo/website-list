@@ -8,10 +8,6 @@ which is conveniently saved in local storage for future use.
 
 To clone and run this repository locally, please follow these steps:
 
-## Installation
-
-To clone and run this repository locally, please follow these steps:
-
 ```bash
 git clone https://github.com/ShaulLavo/website-list.git
 cd website-list
