@@ -30,9 +30,9 @@ The backend of this cutting-edge website is powered by Node.js and Express. It u
 ## Frontend
 The frontend of this website is developed using [React](https://reactjs.org/), [Vite](https://vitejs.dev/) and [Material-UI](https://material-ui.com/).
 
-<small>
+<sub>
 Please note that this project is licensed under the [MIT license](https://opensource.org/license/mit/). Feel free to use it or modify it to suit your needs.
 
 README mostly Created by ChatGPT.
-</small>
+</sub>
 
