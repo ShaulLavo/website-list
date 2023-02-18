@@ -1,0 +1,7 @@
+.clearIcon{
+    transition: ease-in-out 300ms;
+}
+
+.clearIcon:hover {
+	color: red;
+}
