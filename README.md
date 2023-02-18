@@ -24,7 +24,7 @@ The backend of this cutting-edge website is powered by Node.js and Express. It u
 
 - Google Autocomplete API to suggest possible search results
 - Google Favicon API to retrieve the website's favicon
-- DuckDuckGo Instant Answer API in the event that a string is entered instead of a URL. This API employs an advanced redirect feature in their search API to enhance search results.
+- DuckDuckGo Instant Answer API in the event that a keyword is entered instead of a URL. This API employs an advanced redirect feature in their search API to enhance search results.
 - [Puppeteer](https://pptr.dev/) to redirect via DuckDuckGo and retrieve the website's title
 
 ## Frontend
