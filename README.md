@@ -7,7 +7,7 @@ which is conveniently saved in local storage for future use.
 ## Disclaimer
 
 This is a for-fun project that serves no practical purpose other than for the developer to experiment with Puppeteer and various APIs. \
-Please do not expect any useful or meaningful results from using this website. \
+Please do not expect any useful or meaningful results from using this website. 
 ## Installation
 
 To clone and run this repository locally, please follow these steps:
